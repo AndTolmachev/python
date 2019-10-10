@@ -1,7 +1,3 @@
-var s = Math.trunc(Math.random()*10000)
-console.log(s)
-guess(s)
-
 //задание 4)
 for(i=0; i<=9; console.log(i++)){
     
